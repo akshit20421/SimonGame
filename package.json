@@ -1,0 +1,16 @@
+{
+  "name": "simon-game-challenge-starting-files",
+  "version": "1.0.0",
+  "description": "howler library",
+  "main": "jsff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "howler": "^2.2.3",
+    "request": "^2.88.2"
+  }
+}
